@@ -1,2 +1,5 @@
-Descargar librería de esta dirección, descomprimirla, y agregarla a la carpeta del proyecto antes de abrir:
+1-Descargar librería de esta dirección, descomprimirla, y agregarla a la carpeta del proyecto antes de abrir:
 https://drive.google.com/open?id=1l9obpaFjMiO1Ro9KgiWQHv0dJ5Lv5b5e
+
+2-Dentro de la carpeta "lib" de la librería nana, separar los archivos .lib en carpetas "debug" y "release" respectivamente,
+sin mayúsculas en los nombres.
