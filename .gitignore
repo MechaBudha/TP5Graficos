@@ -5,3 +5,7 @@ x86
 x64
 "nana_1.5.6"
 nana_1.5.6
+"Lib"
+"Obj"
+*.ipch
+*.vc
